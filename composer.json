@@ -2,7 +2,7 @@
     "name": "taylornetwork/variable-replacer",
     "description": "Replaces variables in strings at defined stages",
     "require": {
-        "illuminate/support": "^5.6",
+        "illuminate/support": "5.*.*",
         "php": "^7.1"
     },
     "license": "MIT",
